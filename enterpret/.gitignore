@@ -1,0 +1,15 @@
+/output/*
+/cache/*
+/legacy_repo/*
+/wandb/*
+
+
+**/git_commands.txt
+**/.DS_Store
+*.xlsx
+*.pyc
+*.gdoc
+
+**.\#*
+**\#*
+**\#/*
